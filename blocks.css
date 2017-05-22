@@ -1,0 +1,37 @@
+.Top {
+    width: 100%;
+    height: 100px;
+    background: red;
+}
+
+.Left {
+    width: 100px;
+    height: 900px;
+    background: yellow;
+    float: left;
+}
+
+.Center {
+    background: blue;
+    width: 1685px;
+    height: 800px;
+    float: left;
+}
+
+.Right {
+    width: 100px;
+    height: 900px;
+    background: yellow;
+    float: right;
+    
+    
+}
+
+.Bottom {
+    width: 89.3%;
+    height: 100px;
+    background: green;
+    float: left
+}
+
+
