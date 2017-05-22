@@ -1,0 +1,33 @@
+.top {
+    background: red;
+    height: 100px;
+    width: 100%;
+}
+
+.left {
+    background: blue;
+    height: 800px;
+    width: 33.3%;
+    float:  left;
+}
+
+.middle {
+    background: purple;
+    height: 800px;
+    width: 33.3%;
+    float: left;
+}
+
+.right {
+    background: yellow;
+    width: 33.3%;
+    height: 800px;
+    float: right;
+}
+
+.bottom {
+    background: green;
+    width: 100%;
+    height: 65px;
+    float: left;
+}
