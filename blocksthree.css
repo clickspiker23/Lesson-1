@@ -1,0 +1,52 @@
+.top {
+    background: purple;
+    height: 100px;
+    width: 100%;
+}
+
+.left {
+    background: white;
+    width: 100px;
+    height: 875px;
+    float: left;
+}
+
+.middle {
+    background: red;
+    width: 89.4%;
+    height: 875px;
+    float: left;
+}
+
+.right {
+    background: white;
+    width: 100px;
+    height: 875px;
+    float: right;
+}
+
+.blue {
+    background: blue;
+    height: 225px;
+    width: 700px;
+    margin: 30px auto;
+    padding-top: 25px;
+    
+    
+}
+
+.yellow {
+    background: yellow;
+    height: 100px;
+    width: 100px;
+    margin-left: 25px;
+    float: left;
+    
+}
+
+.green {
+    background: green;
+    height: 150px;
+    width: 500px;
+    margin-left: 150px;
+}
